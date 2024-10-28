@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: pipejet-ui-4cc090d2-2c86-4ab5-881a-18d2aa37873a-container
-          image: pipejet/sovannlyna-pipejet-ui:1
+          image: pipejet/sovannlyna-pipejet-ui:2
           ports:
             - containerPort: 3000
